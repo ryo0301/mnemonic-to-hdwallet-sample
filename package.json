@@ -1,0 +1,10 @@
+{
+  "name": "bip39",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "ethereumjs-wallet": "^0.6.3"
+  }
+}
